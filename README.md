@@ -1,4 +1,4 @@
-# Academy_APP
+# Car Shop CRM
 
 The aim of this project is to design a CRM system for a Car Shop.
 
